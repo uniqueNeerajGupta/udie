@@ -1,8 +1,9 @@
-def add(3 , 5):
-    return 3 + 5
+def add(a,b):
+    return a + b
+
+print(add(11 ,3))
 
 
-
-
-def subtract(10 , 4):   return 10 - 4
+# def subtract(10,4):   
+#     return 10 - 4
 
